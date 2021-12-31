@@ -1,6 +1,6 @@
 excluded:
   - .build/
-  - build/
+  - build/https://docs.github.com/en/packages
   - MixpanelDemo
   - Sources/SelectorEvaluator.swift
   - Sources/CodelessBinding.swift
@@ -41,6 +41,7 @@ excluded:
   - Sources/Tweak.swift
   - Sources/DeviceInfoMessage.swift
   - Sources/ApplicationStateSerializer.swift
+  -https://docs.github.com/en/packages
 
 line_length: 140
 file_length: 1500
